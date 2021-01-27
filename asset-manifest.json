@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AbhishekBane/static/css/main.76c33a14.chunk.css",
+    "main.js": "/AbhishekBane/static/js/main.ae5270f7.chunk.js",
+    "main.js.map": "/AbhishekBane/static/js/main.ae5270f7.chunk.js.map",
+    "runtime-main.js": "/AbhishekBane/static/js/runtime-main.33895ec0.js",
+    "runtime-main.js.map": "/AbhishekBane/static/js/runtime-main.33895ec0.js.map",
+    "static/js/2.03b0061b.chunk.js": "/AbhishekBane/static/js/2.03b0061b.chunk.js",
+    "static/js/2.03b0061b.chunk.js.map": "/AbhishekBane/static/js/2.03b0061b.chunk.js.map",
+    "static/js/3.70bb8bb8.chunk.js": "/AbhishekBane/static/js/3.70bb8bb8.chunk.js",
+    "static/js/3.70bb8bb8.chunk.js.map": "/AbhishekBane/static/js/3.70bb8bb8.chunk.js.map",
+    "index.html": "/AbhishekBane/index.html",
+    "static/css/main.76c33a14.chunk.css.map": "/AbhishekBane/static/css/main.76c33a14.chunk.css.map",
+    "static/js/2.03b0061b.chunk.js.LICENSE.txt": "/AbhishekBane/static/js/2.03b0061b.chunk.js.LICENSE.txt",
+    "static/media/arrow-right.bb28c7f2.svg": "/AbhishekBane/static/media/arrow-right.bb28c7f2.svg",
+    "static/media/chat.8ce3bb3a.svg": "/AbhishekBane/static/media/chat.8ce3bb3a.svg",
+    "static/media/user.d1e16a00.svg": "/AbhishekBane/static/media/user.d1e16a00.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33895ec0.js",
+    "static/js/2.03b0061b.chunk.js",
+    "static/css/main.76c33a14.chunk.css",
+    "static/js/main.ae5270f7.chunk.js"
+  ]
+}
